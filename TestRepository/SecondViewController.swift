@@ -16,7 +16,7 @@ class SecondViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         let label = UILabel()
-        label.text = "SHIRODAMA"
+        label.text = "This is ver-1.0"
         view.addSubview(label)
     }
     
